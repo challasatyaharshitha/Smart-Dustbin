@@ -1,4 +1,4 @@
-# Smart Automated Trash Bin
+# Smart Dustbin
 
 # Overview
 This project implements an automated trash bin that opens its lid when a user approaches, using an ultrasonic sensor for proximity detection and a servo motor for lid movement. A manual override button is included for direct user control.
